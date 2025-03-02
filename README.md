@@ -1,1 +1,1 @@
-# daniella_adapter_workshop
+# integrating wallet_workshop
